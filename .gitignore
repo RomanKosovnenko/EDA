@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 leetcode/leetcode-problem-dataset/leetcode_dataset - lc.csv
+.vscode/settings.json
